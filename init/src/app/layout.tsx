@@ -5,8 +5,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      55
-      <body>{children}</body>
+      <body>
+        <h1>23</h1>
+        {children}
+      </body>
     </html>
   );
 }
