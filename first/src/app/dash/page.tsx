@@ -1,5 +1,9 @@
-import React from "react";
+import React from 'react';
 
 export default function Dash() {
-  return <div>我是dash目录下的测试page</div>;
+  return (
+    <div>
+      <h3>http://localhost:3000/dash</h3>
+    </div>
+  );
 }

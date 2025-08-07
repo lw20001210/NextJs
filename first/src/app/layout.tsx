@@ -7,7 +7,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {children}
-        <div>666</div>
+        <h2>我是最外层的layout</h2>
       </body>
     </html>
   );
